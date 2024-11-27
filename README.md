@@ -19,8 +19,8 @@ Here are some of the projects I am working on:
 - [Golden 3D Text](https://golden-text-2d4qvh27i-alaaeldin-abousamras-projects.vercel.app/) - making Scene using Native THREE.js & WebGL
 - [Portfolio](https://portfolio-alaaeldin-v1.vercel.app/) - THREE js Portolio
 - [Hunted House](https://hunted-house-rosy.vercel.app/) - making Scene using Native THREE.js & WebGL
-- [Golden 3D Text](https://golden-text-2d4qvh27i-alaaeldin-abousamras-projects.vercel.app/) - making Scene using R3F & React THREE DREI
-- [Portal Environment](https://portal-j6oryesz2-alaaeldin-abousamras-projects.vercel.app/) - THREE js meta verse Scene
+- [Golden 3D Text](https://golden-text.vercel.app/) - making Scene using R3F & React THREE DREI
+- [Portal Environment](https://portal-rho-beryl.vercel.app/) - THREE js meta verse Scene
 - [Sprial Galaxy](https://spiral-galaxy-five.vercel.app/) - Space Galaxy with native THREE js
 
 ## Skills & Technologies
