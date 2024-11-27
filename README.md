@@ -1,6 +1,7 @@
 # Hello, I'm [AlaaeldinAbousamra] 👋
 
 Welcome to my GitHub profile! I'm a passionate developer and open-source enthusiast.
+<img align="left" width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 
 ## About Me
 
