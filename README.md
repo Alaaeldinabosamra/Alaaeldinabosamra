@@ -1,4 +1,4 @@
-# Hello, I'm [AlaaeldinAbousamra] 👋
+# Hello, I'm [AlaaeldinAbousamra] 👋<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px" height="50px">
 
 Welcome to my GitHub profile! I'm a passionate developer and open-source enthusiast.
 
