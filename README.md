@@ -1,7 +1,7 @@
 # Hello, I'm [AlaaeldinAbousamra] 👋
 
 Welcome to my GitHub profile! I'm a passionate developer and open-source enthusiast.
-<img align="left" width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+
 
 ## About Me
 
@@ -34,3 +34,6 @@ Here are some of the projects I am working on:
 - [LinkedIn](https://www.linkedin.com/in/alaaeldin-abousamra-b838421ba)
 - [Twitter](https://twitter.com/@3laaelddin)
 - [Personal Blog Youtube](https://www.youtube.com/@alaaeldinabosamra)
+
+## Most Used Languages
+<img align="left" width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
