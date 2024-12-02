@@ -26,10 +26,10 @@ Here are some of the projects I am working on:
 
 ## Skills & Technologies
 
-- Languages: JavaScript, C#, C++, etc.
-- Tools: Git, Docker, VS Code, etc.
+- Languages: JavaScript, C#, C++
+- Tools: Git, Docker, VS Code
 - OS: Linux - Windows 
-- Frameworks: React, Node.js, Next.js, etc.
+- Frameworks: React, Node.js, Next.js
 
 ## Let's Connect
 
